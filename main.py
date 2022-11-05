@@ -1,6 +1,6 @@
 # функция создана на уроке.
 def my_superfunction():
-    print("Много принтов богу принтов")
+    print("Принт Python 1 !")
 
 def main():
     print("Первый принт")
